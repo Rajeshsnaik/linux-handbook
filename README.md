@@ -15,6 +15,8 @@ This repository is designed for **beginners, system administrators, DevOps engin
 |  03 | **Linux Text Processing & Search**      | [View Topic](./03-Linux%20Text%20Processing%20&%20Search/)     |
 |  04 | **Linux Redirection & Productivity**    | [View Topic](./04-Linux%20Redirection%20&%20Productivity/)     |
 |  05 | **Linux Boot & System Management**      | [View Topic](./05-Linux%20Boot%20&%20System%20Management/)     |
+|  06 | **Processes & Process Management**      | [View Topic](./06-Processes%20&%20Process%20Management/)       |
+|  07 | **Disk, Storage & Permissions**         | [View Topic](./07-Disk,%20Storage%20&%20Permissions/)          |
 
 ---
 
